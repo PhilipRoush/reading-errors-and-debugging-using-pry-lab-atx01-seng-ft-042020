@@ -1,6 +1,6 @@
 require 'pry'
 
-def start_game(player1 = "Rocky", player2 = "Bullwinkle")
+def start_game(player1, player2)
  return "Hello #{player1} & #{playar2}"
 end
 
